@@ -1,6 +1,9 @@
 HTML/CSS Music Player
 This project is a simple music player created using HTML and CSS. It provides a basic interface for playing audio files with minimalistic design and easy-to-use controls.
 
+HOSTED LINK
+https://shwethabansod.github.io/MusicPlayer/
+
 Features
 Play, pause, and stop buttons for controlling playback.
 Volume control slider.
